@@ -13,3 +13,5 @@ The slope is not considered zero, because our p-value is 5.35e_11 which would me
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 The multiple R-squared is .7149, or 71.49%, so yes the model predicts it effectively.
+
+![image](https://user-images.githubusercontent.com/110315163/218266805-ce4252ee-b066-4d26-bc45-2159ccdc84bd.png)
